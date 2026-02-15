@@ -2,14 +2,9 @@
 
 > 🧠 AI-powered task management with an innovative, intuitive interface
 
-[![Live Demo](https://img.shields.io/badge/demo-live-success?style=for-the-badge)](https://YOUR-USERNAME.github.io/smart-todo-list/)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
-[![React](https://img.shields.io/badge/React-18.2-61dafb?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-4.4-646cff?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 
 A beautifully designed task management application featuring AI-powered priority detection, smart filtering, and a premium dark mode interface.
 
-![Smart To-Do List](https://via.placeholder.com/800x400/0a0e1a/6366f1?text=Smart+To-Do+List+Preview)
 
 ---
 
@@ -257,4 +252,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <sub>Built with ❤️ using React</sub>
 </div>
+
 
