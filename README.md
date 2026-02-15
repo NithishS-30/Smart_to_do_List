@@ -252,24 +252,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Fonts from [Google Fonts](https://fonts.google.com/)
 - Built with [React](https://reactjs.org/) and [Vite](https://vitejs.dev/)
 
----
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/YOUR-USERNAME/smart-todo-list](https://github.com/YOUR-USERNAME/smart-todo-list)
-
-Live Demo: [https://YOUR-USERNAME.github.io/smart-todo-list/](https://YOUR-USERNAME.github.io/smart-todo-list/)
-
----
-
-## ⭐ Show Your Support
-
-Give a ⭐️ if this project helped you!
-
----
 
 <div align="center">
   <sub>Built with ❤️ using React</sub>
 </div>
+
