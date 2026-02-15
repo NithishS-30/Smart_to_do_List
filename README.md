@@ -195,13 +195,7 @@ See [DEPLOYMENT.md](DEPLOYMENT.md) for detailed instructions.
 
 ---
 
-## 📸 Screenshots
 
-### Desktop View
-![Desktop](https://via.placeholder.com/800x500/0a0e1a/6366f1?text=Desktop+View)
-
-### Mobile View
-![Mobile](https://via.placeholder.com/400x600/0a0e1a/6366f1?text=Mobile+View)
 
 ---
 
@@ -217,11 +211,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
@@ -234,5 +224,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <sub>Built with ❤️ using React</sub>
 </div>
+
 
 
