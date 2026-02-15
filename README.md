@@ -34,25 +34,7 @@ A beautifully designed task management application featuring AI-powered priority
 - Node.js 14+ 
 - npm or yarn
 
-### Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/YOUR-USERNAME/smart-todo-list.git
-
-# Navigate to project
-cd smart-todo-list
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
 
 ## 📖 Usage
 
